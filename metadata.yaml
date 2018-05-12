@@ -1,0 +1,40 @@
+_repo: Amusing-Prose-Chap-Books_36517
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Cunningham, Robert Hays
+    alias: Cunningham, R. H.
+    gutenberg_agent_id: '38319'
+    url: http://www.gutenberg.org/2009/agents/38319
+description: ''
+gutenberg_issued: '2011-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36517'
+  lccn: '13026918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Chapbooks'
+tableOfContents: The comical history of the King and the cobbler -- The merry tales
+  of the wise men of Gotham -- The history of Thomas Hickathrift -- The history of
+  Jack the Giant-killer -- Simple Simon's misfortunes and his wife Margery's cruelty
+  -- The adventures of Bamfylde Moore Carew -- The comical sayings of Paddy from Cork
+  -- The history of Dick Whittington and his cat -- The mad pranks of Tom Tram --
+  A York dialogue between Ned and Harry -- Daniel O'Rourke's wonderful voyage to the
+  moon -- Mother Bunch's closet newly broke open -- The comical history of the Courtier
+  and Tinker -- The history of the four kings -- The penny budget of wit and package
+  of drollery -- The merry conceits of Tom Long the carrier -- The story of Blue Beard
+  -- The life of Mansie Wauch -- The life and astonishing adventures of Peter Williamson
+  -- The famous exploits of Robin Hood, Little John, and his merry men all -- History
+  of Dr. Faustus -- The whole life and death of Long Meg -- The famous history of
+  the learned Friar Bacon -- The history of the blind beggar of Bethnal Green -- The
+  pleasant history of Poor Robin, the merry saddler of Walden.
+title: Amusing Prose Chap Books
+url: http://www.gutenberg.org/ebooks/36517
